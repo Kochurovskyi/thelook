@@ -1028,7 +1028,6 @@ thelook/
 ├── .gitignore                   # Git ignore rules
 ├── config.py                     # Configuration and validation
 ├── cli.py                        # Command-line interface
-├── main.py                       # Streamlit app entry point (if applicable)
 │
 ├── agents/                       # LangGraph agent workflow
 │   ├── __init__.py
