@@ -1,0 +1,51 @@
+# Functional Test Queries from test_functional_requirements.py
+
+# Customer Segmentation
+Segment customers by their total order value
+Calculate customer lifetime value and segment customers by CLV tiers
+Analyze customer retention rates and identify churn patterns
+
+# Product Performance
+Show me top 10 products by revenue
+Calculate inventory turnover rates by product category
+Compare revenue and profit margins across product categories
+
+# Sales Trends
+Show me sales trends over the last 12 months
+Generate revenue forecast for the next 3 months based on historical trends
+Calculate month-over-month growth rates for sales
+
+# Geographic Patterns
+Show me sales by country or region
+Compare sales performance across different countries
+Analyze shipping times and delivery performance by country
+
+# Database Structure
+What tables are in the database and what are their columns?
+What are the relationships between the orders and order_items tables?
+Check for missing values and data quality issues in the orders table
+
+# Order Lifecycle & Fulfillment Analysis
+Calculate average time from order creation to delivery by order status
+Analyze return rates and return processing times by product category
+Identify orders with delayed shipping and their impact on customer satisfaction
+
+# Product Catalog & Pricing Analysis
+Compare profit margins across different product brands and departments
+Analyze price distribution and identify products with unusual pricing patterns
+Find products with highest markup percentage (retail_price vs cost)
+
+# Customer Demographics & Behavior
+Segment customers by age groups and analyze their purchasing patterns
+Compare sales performance by traffic source (where customers came from)
+Analyze gender-based purchasing preferences across product categories
+
+# Inventory & Distribution Analysis
+Calculate inventory turnover by distribution center
+Identify products with high return rates at specific distribution centers
+Analyze shipping performance differences across distribution centers
+
+# Cross-Table Advanced Analytics
+Calculate customer acquisition cost by traffic source and their lifetime value
+Analyze product bundling opportunities based on frequently ordered together items
+Identify high-value customer segments and their preferred product categories
